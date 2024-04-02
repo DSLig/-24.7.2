@@ -10,9 +10,9 @@ valid_password = '_________'
 
 !_Часть тестов выдают ошибку, и помеченны как BUG_!
 
-test_post_add_new_pet_with_not_number_data_age
-test_post_add_new_pet_with_negative_number_data_age
-test_create_my_pet_simple_with_empty_values
+test_post_add_new_pet_with_not_number_data_age/n
+test_post_add_new_pet_with_negative_number_data_age/n
+test_create_my_pet_simple_with_empty_values/n
 
 vscode_pytest
 platform win32 -- Python 3.12.1, pytest-7.4.4, pluggy-1.4.0
